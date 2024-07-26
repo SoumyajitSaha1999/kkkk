@@ -29,4 +29,4 @@ Welcome to the next generation of file sharing! Our application redefines the wa
 ### Ready to revolutionize your file sharing experience? 🚀
 Jump into the future of file sharing with our application. Whether it's for work, school, or personal use, experience the ease and security of modern file sharing today!
 <br><br>
-Visit our **[File Sharing App](https://file-sharing-sitef.onrender.com)** and revolutionize the way you share files.✨
+Visit our **[File Sharing App](https://file-sharing-sitef.onrender.com)** and revolutionize the way you share files. ✨
