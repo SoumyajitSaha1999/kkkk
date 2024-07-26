@@ -22,4 +22,4 @@
 - **EJS**: 🖥️ Templating engine for rendering HTML views.
 - **Multer**: 📦 Middleware for handling file uploads.
 
-## Getting Started 🚀
+### Getting Started 🚀
